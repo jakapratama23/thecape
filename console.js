@@ -1,10 +1,6 @@
-// first 
-console.log("hello world")
-console.log("hello world") // 2nd time
+console.log("hellow world");
 
-function main() {
-  return null;
+function main(){
+  console.log(1);
 }
 main()
-
-// console.log(main)
