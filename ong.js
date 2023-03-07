@@ -1,9 +1,11 @@
 //test 234
-const x = 20;
+const x = 40;
 let answer;
 
-if (x > 10) {
-    answer = "greater than 10";
+if (x > 30) {
+    answer = "greater than 40";
 } else {
-    answer =  "less than 10";
+    answer =  "less than 40";
 }
+
+// changed
