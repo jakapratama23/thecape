@@ -1,11 +1,11 @@
 // dide
-const x = 40;
+const x = 60;
 let answer;
 
-if (x > 30) {
-    answer = "greater than 40";
+if (x > 50) {
+    answer = "greater than 60";
 } else {
-    answer =  "less than 40";
+    answer =  "less than 60";
 }
 
-// idk
+// sus
