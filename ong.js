@@ -9,3 +9,15 @@ if (x > 30) {
 }
 
 // changed
+
+function sayHello(name) {
+  console.log('Hello', name);
+}
+
+setTimeout(function() {
+  console.log('Loaded')
+}, 2000);
+
+list.forEach(function(item) {
+  console.log(item);
+});
